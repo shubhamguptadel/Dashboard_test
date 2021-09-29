@@ -13,3 +13,11 @@ library(cronR)
 library(htmlTable)
 library(emayili)
 library(googledrive)
+library(usethis)
+library(devtools)
+library(roxygen2)
+library(testthat)
+
+# Code --------------------------------------------------------------------
+
+
