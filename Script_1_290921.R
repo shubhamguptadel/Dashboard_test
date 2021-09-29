@@ -1,0 +1,15 @@
+# Libraries --------------------------------------------------------------
+
+library(DBI)
+library(emayili)
+library(odbc)
+library(RPresto)
+library(tidyverse)
+library(lubridate)
+library(miniUI)
+library(shiny)
+library(shinyFiles)
+library(cronR)
+library(htmlTable)
+library(emayili)
+library(googledrive)
